@@ -1,0 +1,2 @@
+# DoraScalaJul2017
+ScalaProgramsForClass
